@@ -353,7 +353,7 @@ end
 -- ============================================================
 -- UI: WindUI
 -- ============================================================
-local WindUI = loadstring(game:HttpGet("https://pastefy.app/DtZisHmC/raw"))()
+local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/dist/main.lua"))()
 
 local Window = WindUI:CreateWindow({
     Title = "AzizXBenjamin",
